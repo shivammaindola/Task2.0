@@ -1,7 +1,5 @@
 package com.example.task2;
 
-import android.widget.EditText;
-
 public class Model {
     String hint;
     public String name;

@@ -14,6 +14,7 @@ import java.util.ArrayList;
 
 public class myAdapter extends RecyclerView.Adapter<myAdapter.MyViewHolder> {
 
+
     static ArrayList<Model> textlist;
     static ArrayList<EditText> edittest;
     myAdapter(ArrayList<Model> textlist, ArrayList<EditText> edittest)
